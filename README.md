@@ -2,7 +2,7 @@
 
 **Last updated:** January 10, 2024
 
-This Privacy Policy outlines how we collect, use, and disclose information when you use our GLogs application ("the Service") and informs you about your privacy rights and protections under the law.
+This Privacy Policy outlines how we collect, use, and disclose information when you use our service and informs you about your privacy rights and protections under the law.
 
 ## Interpretation and Definitions
 
